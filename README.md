@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Miguel Teixeira Pereira</h1>
 <h3 align="center">Currently, i am taking the technical course in computer science at SATC.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelteixeirapereira&label=Profile%20views&color=0e75b6&style=flat" alt="miguelteixeirapereira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelteixeirapereira&label=Profile%20views&color=800000&style=flat" alt="miguelteixeirapereira" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelteixeirapereira" alt="miguelteixeirapereira" /></a> </p>
 
