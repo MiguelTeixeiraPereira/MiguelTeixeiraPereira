@@ -10,3 +10,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelteixeirapereira&show_icons=true&theme=dark&title_color=950404&text_color=950404&bg_color=ffffff&locale=en&layout=compact" alt="miguelteixeirapereira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelteixeirapereira&show_icons=true&theme=dark&title_color=950404&text_color=950404&bg_color=ffffff&hide_border=true&locale=en" alt="miguelteixeirapereira" /></p>
+
+<div align="center">  
+<a href="https://www.instagram.com/migueel14_/target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
