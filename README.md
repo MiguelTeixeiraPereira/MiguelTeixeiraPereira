@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Miguel Teixeira Pereira</h1>
-<h3 align="center">I am currently in the technical course in computer science at SATC.</h3>
+<h3 align="center">technical course computer science 4/4 - SATC.</h3>
 
 
 
