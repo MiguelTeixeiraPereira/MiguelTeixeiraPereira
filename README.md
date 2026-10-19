@@ -6,6 +6,7 @@
 
 ### 🚀 Sobre Mim
 - 🎓 Cursando **Técnico em Informática 4/4** na SATC
+- 💻 Atualmente focado em projeto E-Commerce desenvolvimento Web Full Stack (HTML, CSS, JavaScript, Node.js, MySQL, Json)
 - 🎯 Buscando evolução contínua e novas oportunidades na área de tecnologia
 
 <h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
