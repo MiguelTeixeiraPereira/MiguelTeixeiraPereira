@@ -2,7 +2,7 @@
 <h3 align="center">technical course computer science 4/4 - SATC</h3>
 
 <div align="center">  
-<a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/miguel-teixeira-pereira-833b29444/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <br>
