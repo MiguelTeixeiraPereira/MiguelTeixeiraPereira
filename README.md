@@ -1,8 +1,5 @@
 <h1 align="center">Hello, I'm Miguel Teixeira Pereira 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiguelTeixeiraPereira&color=0077B5&style=flat-square&label=Visitas+ao+perfil" alt="Visitas" />
-</p>
 
 ### 🚀 Sobre Mim
 - 🎓 Cursando **Técnico em Informática 4/4** na Instituição SATC
