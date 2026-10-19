@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Miguel Teixeira Pereira 👋</h1>
-<h3 align="center">technical course computer science 4/4 - SATC</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MiguelTeixeiraPereira&color=0077B5&style=flat-square&label=Visitas+ao+perfil" alt="Visitas" />
