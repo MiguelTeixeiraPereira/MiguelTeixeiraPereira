@@ -19,7 +19,3 @@
 
 <br>
 
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelTeixeiraPereira&layout=compact&theme=dark&hide_border=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=MiguelTeixeiraPereira&show_icons=true&theme=dark&hide_border=true"/>
-</div>
